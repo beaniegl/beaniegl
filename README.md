@@ -1,4 +1,4 @@
-Hello! I am a recent Computer Science graduate, looking to develop and maintain small projects I am working on, and looking for work. 
+Hello! I am a recent Computer Science graduate, looking to develop and maintain small projects I am working on.
 
 I am interested in Game Design, Cloud Computing and general Software Development.
 
