@@ -1,7 +1,5 @@
 Hello! I am a recent Computer Science graduate, looking to develop and maintain small projects I am working on.
 
-I am interested in Game Design, Cloud Computing and general Software Development.
-
 I can be contacted on halgibson5@gmail.com
 
 Or found at www.linkedin.com/in/halgibsonleitao
